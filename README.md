@@ -4,10 +4,14 @@
 </div>
 <div id="header" align="center">
      <img src="https://komarev.com/ghpvc/?username=Olyaolya13&style=flat-square&color=green" alt=""/>
-</div>
+ </div>
+  <h1>
+  Hey! This is Olga Pankrashina!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 </div>
 
-# Hey! :wave: This is Olga Pankrashina!
+
 
 ---
 
