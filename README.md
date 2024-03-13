@@ -1,10 +1,9 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTlvczUydTB4dHZucHJxOXh0d29lcjdpdjQxMm5mNWNvazN1NGZreiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WIQ0N0OUvei1OW1h9Z/giphy.gif" width="100"/>
+     <img src="https://komarev.com/ghpvc/?username=Olyaolya13&style=flat-square&color=green" alt=""/>
 </div>
 
-<div id="badges">
-    <img src="https://komarev.com/ghpvc/?username=Olyaolya13&style=flat-square&color=green" alt=""/>
-</div>
+
 
 # Hey! :wave: This is Olga Pankrashina!
 
