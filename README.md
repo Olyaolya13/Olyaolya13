@@ -15,7 +15,7 @@
 ### About me :cherry_blossom:
 I am a Frotend Developer from Russia. <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWlqNTd2Y3R6bWJ2dGgxNGg4dTBsaWlvc2VhMjd5MTR0MWpteHM4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif" width="30"> 
 
-- :computer: Participated in a hackathon to create an internal service MVP
+- :computer: Participated in a hackathon to create an internal service MVP ('https://github.com/Olyaolya13/ambassadors_front')
 - :cat: Constantly studying technical content
 - :dolphin: In free time doing sports and create pictures
 - :star2: Open to new opportunities  :email:<olyaolya9413@gmail.com>  
