@@ -11,48 +11,35 @@
 </h1>
 </div>
 
-
-
 ---
 
-Open to new opportunities
+### About me :cherry_blossom:
+I am a Frotend Developer from Russia. <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWlqNTd2Y3R6bWJ2dGgxNGg4dTBsaWlvc2VhMjd5MTR0MWpteHM4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif" width="30"> 
 
-:email:<olyaolya9413@gmail.com>
-
+- :computer: Participated in a hackathon to create an internal service MVP
+- :cat: Constantly studying technical content
+- :dolphin: In free time doing sports and create pictures
+- :star2: Open to new opportunities  :email:<olyaolya9413@gmail.com>  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTExM3VuYWwyZjNxZzM4aWprYWE0OHFmbmZ6aXltZ2NpMTZ3ZWIxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" width="30">
 ---
 
-#### About me :cherry_blossom:
-
-I'm frontend developer. :computer:
-And i am interested in creating high-quality and intuitive user interfaces, as well as developing scalable and efficient web applications. :star2:
-
----
-
-#### Motivation and Experience :punch:
-
-My desire to become a developer arose from the passion for continuously creating and improving. Currently, my experience is limited to pet projects. :rabbit:
-
----
-
-#### Development plans :whale2:
-
-I constantly improve my skills and strive to learn new technologies and approaches in web development. My current development plan includes studying TypeScript, deepening my understanding of application architecture, and concurrently exploring vector graphics. :cat:
-
----
-
-#### Languages and Tools :sun_with_face:
+### :hammer_and_wrench: Languages and Tools :
 
 <div>
-<img src="./Images/reactjs.png" width="80" height="80">
-<img src="./Images/JS.png" width="72" height="72">
-<img src="./Images/nodejs.png" width="80" height="80">
-<img src="./Images/css.png" width="75" height="75">
-<img src="./Images/expressjs.png" width="80" height="80">
-<img src="./Images/html.png" width="83" height="83">
-<img src="./Images/mongoDb.png" width="90" height="80">
-<img src="./Images/figma.png" width="80" height="80">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="40" height="40"/>&nbsp;>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-plain.svg" title="MUI" alt="MUI" width="40" height="40"/>&nbsp;>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp;>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp;>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="express" alt="express" width="40" height="40"/>&nbsp;>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp;>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;>
 </div>
+---
 
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Olyaolya13&theme=dark&background=000000)](https://git.io/streak-stats)
 ---
 
 #### Nice to meet you and have a good day!
