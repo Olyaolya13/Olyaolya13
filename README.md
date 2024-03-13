@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges">
-    <img src="https://komarev.com/ghpvc/?username=Olyaolya13&style=flat-square&color=black" alt=""/>
+    <img src="https://komarev.com/ghpvc/?username=Olyaolya13&style=flat-square&color=green" alt=""/>
 </div>
 
 # Hey! :wave: This is Olga Pankrashina!
