@@ -45,7 +45,6 @@ I am a Frotend Developer from Russia. <img src="https://media.giphy.com/media/v1
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Olyaolya13&wakatime=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
