@@ -18,7 +18,7 @@ I am a Frotend Developer from Russia. <img src="https://media.giphy.com/media/v1
 - :computer: Participated in a hackathon to create an internal service MVP 
 - :cat: Constantly studying technical content
 - :dolphin: In free time doing sports and create pictures
-- :star2: Open to new opportunities  <img src="https://media.giphy.com/media/Kg9CZFXBBkqzZwzI9L/giphy.gif" width="30"> <olyaolya9413@gmail.com>  
+- :star2: Open to new opportunities  <img src="https://icons8.com/icon/mXcvtsj8e1Ug/mail" width="30"> <olyaolya9413@gmail.com>  
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
