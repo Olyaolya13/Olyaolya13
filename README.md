@@ -43,7 +43,7 @@ I am a Frotend Developer from Russia. <img src="https://media.giphy.com/media/v1
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Olyaolya13&theme=cobalt&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Olyaolya13&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Olyaolya13&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
