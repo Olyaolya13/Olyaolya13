@@ -62,7 +62,6 @@ I am a frontend developer from Russia <img src="https://media.giphy.com/media/v1
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Olyaolya13&wakatimet&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![Codewars](https://www.codewars.com/users/Olyaolya13/badges/micro)
 
 
 
