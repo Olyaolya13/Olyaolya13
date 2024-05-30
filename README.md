@@ -1,15 +1,19 @@
-<div id="header" align="center" display="flex" flex-direction="column">
+<div id="header" align="center" style="display: flex; flex-direction: column;">
   <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTlvczUydTB4dHZucHJxOXh0d29lcjdpdjQxMm5mNWNvazN1NGZreiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WIQ0N0OUvei1OW1h9Z/giphy.gif" width="100"/>
-</div>
-<div id="header" align="center">
-     <img src="https://komarev.com/ghpvc/?username=Olyaolya13&style=flat-square&color=green" alt=""/>
- </div>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTlvczUydTB4dHZucHJxOXh0d29lcjdpdjQxMm5mNWNvazN1NGZreiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WIQ0N0OUvei1OW1h9Z/giphy.gif" width="100"/>
+  </div>
+  <div id="header" align="center">
+    <img src="https://komarev.com/ghpvc/?username=Olyaolya13&style=flat-square&color=green" alt=""/>
+  </div>
+  <div id="header" align="center">
+    <img src="https://www.codewars.com/users/Olyaolya13/badges/micro" alt="Codewars Badge"/>
+  </div>
   <h1>
- Hey! This is Olga Pankrashina!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+    Hey! This is Olga Pankrashina!
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
 </div>
+
 
 
 ### About me :cherry_blossom:
@@ -57,6 +61,8 @@ I am a frontend developer from Russia <img src="https://media.giphy.com/media/v1
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Olyaolya13&theme=cobalt&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Olyaolya13&wakatimet&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![Codewars](https://www.codewars.com/users/Olyaolya13/badges/micro)
 
 
 
