@@ -12,7 +12,7 @@
 </div>
 
 
-### Обо мне:cherry_blossom:
+### Обо мне :cherry_blossom:
 Я фронтенд-разработчик из России <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWlqNTd2Y3R6bWJ2dGgxNGg4dTBsaWlvc2VhMjd5MTR0MWpteHM4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif" width="30"> 
 - :computer:  Опыт участия в хакатонах:
 1. Создание внутреннего MVP для Яндекс.Амбассадоры
