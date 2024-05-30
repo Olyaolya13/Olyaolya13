@@ -6,22 +6,22 @@
      <img src="https://komarev.com/ghpvc/?username=Olyaolya13&style=flat-square&color=green" alt=""/>
  </div>
   <h1>
- Привет! Оля на связи
+ Hey! This is Olga Pankrashina!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
 
 
-### Обо мне :cherry_blossom:
-Я фронтенд-разработчик из России <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWlqNTd2Y3R6bWJ2dGgxNGg4dTBsaWlvc2VhMjd5MTR0MWpteHM4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif" width="30"> 
-- :computer:  Опыт участия в хакатонах:
-1. Создание внутреннего MVP для Яндекс.Амбассадоры
-2. Приложение для оформления и отслеживания подписок на различные развлекательные сервисы Pay2U
-3. Разработка телеграм-бота для компании Vink
-4. Сайт для продвижения спорта в России для Улицы России
-- :cat: Изучаю технический контент для повышения квалификации
-- :dolphin:  В свободное время увлекаюсь спортом и рисую
-- :star2: Открыта для новых возможностей и сотрудничеств:
+### About me :cherry_blossom:
+I am a frontend developer from Russia <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWlqNTd2Y3R6bWJ2dGgxNGg4dTBsaWlvc2VhMjd5MTR0MWpteHM4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif" width="30"> 
+- :computer:  My experience:
+1. Creation of an internal MVP for Yandex.Ambassadors
+2. Application for managing and tracking subscriptions to various entertainment services Pay2U
+3. Development of a Telegram bot for Vink company
+4. Website for promoting sports in Russia for Street Russia
+- :cat: I study technical content to improve my skills
+- :dolphin:  In my free time, I am into sports and drawing
+- :star2: Open to new opportunities and collaborations:
 <div align="start" >
   <a href="mailto:olyaolya9413@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
