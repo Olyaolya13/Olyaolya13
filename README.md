@@ -22,8 +22,15 @@
 - :cat: Изучаю технический контент для повышения квалификации
 - :dolphin:  В свободное время увлекаюсь спортом и рисую
 - :star2: Открыта для новых возможностей и сотрудничеств:
-1. Почта: :email: <olyaolya9413@gmail.com>
-2. Телеграм: 📱 @olyaolya2713
+<div align="start" >
+  <a href="mailto:olyaolya9413@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://t.me/olyaolya2713">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+</div>
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
