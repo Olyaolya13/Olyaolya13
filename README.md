@@ -6,19 +6,22 @@
      <img src="https://komarev.com/ghpvc/?username=Olyaolya13&style=flat-square&color=green" alt=""/>
  </div>
   <h1>
-  Hey! This is Olga Pankrashina!
+ Привет! Оля на связи.
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
 
 
-### About me :cherry_blossom:
-I am a Frotend Developer from Russia. <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWlqNTd2Y3R6bWJ2dGgxNGg4dTBsaWlvc2VhMjd5MTR0MWpteHM4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif" width="30"> 
-
-- :computer: Participated in a hackathon to create an internal service MVP 
-- :cat: Constantly studying technical content
-- :dolphin: In free time doing sports and create pictures
-- :star2: Open to new opportunities  :email: <olyaolya9413@gmail.com>  
+### Обо мне:cherry_blossom:
+Я фронтенд-разработчик из России.<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWlqNTd2Y3R6bWJ2dGgxNGg4dTBsaWlvc2VhMjd5MTR0MWpteHM4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif" width="30"> 
+- :computer:  Опыт участия в хакатонах:
+1. Создание внутреннего MVP для Яндекс.Амбассадоры
+2. Приложение для оформления и отслеживания подписок на различные развлекательные сервисы Pay2U
+3. Разработка телеграм-бота для компании Vink
+4. Сайт для продвижения спорта в России для Улицы России
+- :cat: Изучаю технический контент для повышения квалификации
+- :dolphin:  В свободное время увлекаюсь спортом и рисую
+- :star2: Открыта для новых возможностей и сотрудничества  :email: <olyaolya9413@gmail.com>  
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
