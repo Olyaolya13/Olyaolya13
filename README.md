@@ -6,7 +6,7 @@
      <img src="https://komarev.com/ghpvc/?username=Olyaolya13&style=flat-square&color=green" alt=""/>
  </div>
   <h1>
- Привет! Оля на связи.
+ Привет! Оля на связи
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
